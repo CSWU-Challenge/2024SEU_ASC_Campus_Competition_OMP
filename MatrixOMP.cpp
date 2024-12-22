@@ -1,3 +1,7 @@
+// =========================================================
+// Copyright © 2024 SEU Linux Association ASC Programming Contest Team
+// All rights reserved.
+// =========================================================
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
