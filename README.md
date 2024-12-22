@@ -25,3 +25,8 @@ y[2] = 2466.238442
 y[3] = 2459.820816
 y[4] = 2494.885474
 ```
+
+# Submit
+
+Please submit your solution to [submit@seulinux.com](mailto:submit@seulinux.com) 
+(For competition, before 2025/01/01. No time limit for players for fun!)
